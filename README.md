@@ -1,5 +1,7 @@
 # 👨🏻‍💻 About Me:
-Frontend developer skilled in creating engaging user interfaces with a strong focus on design and user experience.
+My name is Moh Yusuf . Currently, I'm studying at Lithan EduClass majoring in Applied Degree in Software Engineering, and at STT Bandung majoring in Informatics Engineering. I am actively seeking opportunities to apply my skills and contribute to innovative software projects.
+
+Experienced front-end software engineer with expertise in React. Skilled in building user-friendly web applications and collaborating with backend teams using Spring Boot. Passionate about creating seamless user experiences and staying up-to-date with the latest front-end trends. Seeking opportunities to contribute to innovative software projects.
 
 
 ## 🌐 Socials:
